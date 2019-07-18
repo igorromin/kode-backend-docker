@@ -1,4 +1,5 @@
-#Установка
+INSTALL
+-------------
 ```bash
 docker-compose up -d
 docker-compose exec php bash
